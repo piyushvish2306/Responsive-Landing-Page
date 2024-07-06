@@ -2,15 +2,15 @@ Responsive Landing Page
 
 Overview
 
-This is a responsive landing page template designed to adapt to various screen sizes and devices. It is built using HTML, CSS, and JavaScript, and is optimized for modern web browsers.
+This is a responsive landing page for Starbucks, built with HTML, CSS, and JavaScript. The page is designed to showcase the brand's offerings and promotions, and to provide a seamless user experience across various devices and screen sizes.
 
 Features
 
 - Responsive design for desktop, tablet, and mobile devices
-- Clean and modern layout
-- Customizable color scheme and typography
-- Support for various media formats (images, videos, etc.)
-- Interactive elements (buttons, forms, etc.)
+- Prominent call-to-action (CTA) buttons for online ordering and store locations
+- Showcase of featured products and promotions
+- Interactive menu with filtering and sorting options
+- Integration with Starbucks Rewards program
 - Accessibility features (WCAG 2.1 compliant)
 
 Getting Started
@@ -23,6 +23,13 @@ Getting Started
 Technical Requirements
 
 - HTML5
-- CSS3
+- CSS3 (using Sass)
 - JavaScript (ES6+)
 - Modern web browser (Chrome, Firefox, Safari, Edge, etc.)
+- npm (for dependencies and development tools)
+
+Dependencies
+
+- jQuery
+- Bootstrap
+- Font Awesome
